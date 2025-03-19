@@ -1,0 +1,17 @@
+p{
+    color: pink;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: rgb(255, 0, 204);
+}
+
+button{
+    background-color: rgb(253, 0, 253);
+    padding: 20px;
+    
+}
